@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FTPDemo", "FTPDemo\FTPDemo.csproj", "{FBC54601-357C-41A6-9205-9C9854623D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateManifest", "GenerateManifest\GenerateManifest.csproj", "{978FBD0F-FB85-4FC8-BA47-6DAB78BAEDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC54601-357C-41A6-9205-9C9854623D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC54601-357C-41A6-9205-9C9854623D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC54601-357C-41A6-9205-9C9854623D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC54601-357C-41A6-9205-9C9854623D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978FBD0F-FB85-4FC8-BA47-6DAB78BAEDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978FBD0F-FB85-4FC8-BA47-6DAB78BAEDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978FBD0F-FB85-4FC8-BA47-6DAB78BAEDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978FBD0F-FB85-4FC8-BA47-6DAB78BAEDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67159CBB-0441-48B9-8D6F-B567FC75D6D0}
+	EndGlobalSection
+EndGlobal
